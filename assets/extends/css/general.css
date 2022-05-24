@@ -1,0 +1,17 @@
+/*start:dimas*/
+.lowercase {
+    text-transform: lowercase !important;
+}
+
+.uppercase {
+    text-transform: uppercase !important;
+}
+
+.hide{
+    display: none !important;
+}
+
+input[type="text"]:disabled{
+    cursor: not-allowed !important;
+}
+/*end:dimas*/
