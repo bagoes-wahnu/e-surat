@@ -4,7 +4,7 @@
 ![Alt text](/screenshot_esurat/login.jpg)
 
 ## Halaman Dashboard
-![Alt text](/screenshot_esurat/dashboard1.jpg)
+![Alt text](/screenshot_esurat/dashboard_admin1.jpg)
 
 ## Halaman Menu Penomoran Surat
 ![Alt text](/screenshot_esurat/penomoran_surat.jpg)
